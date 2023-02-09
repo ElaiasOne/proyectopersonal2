@@ -76,7 +76,7 @@ header, section, footer{
 }
 
 #sectioncomparaciones{
-    background-color: blue;
+    /*background-color: blue;*/
     height: 300px;
 }
 
@@ -85,8 +85,26 @@ header, section, footer{
 }
 
 .card-medio{
+    float: left;
 }
 
 .card-derecha{
-    float: right;
+    float: left;
 }
+
+#cardplanes{
+    margin-left: 25px;
+}
+
+#sectionrefuerzo{
+    background-color: blue;
+    height: 300px;
+}
+
+
+
+
+
+
+
+
