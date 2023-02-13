@@ -21,25 +21,16 @@ header, section, footer{
 
 #sectioninfo{
     background-color: black;
-    height: 300px;
-    position: relative;
+    height: 200px;
 }
 
 .sectioninfohijo{
     color: white;
     text-align: center;
-    position: absolute;
-    top: 50px;
-}
-
-.sectioninfolist ul{
-    text-align: center;
-    position: absolute;
-    top: 200px;
 }
 
 .sectioninfolist ul li{
-    margin-right: 50px;
+    margin-right: 56px;
     color: white;
     text-decoration: none;
     list-style: none;
