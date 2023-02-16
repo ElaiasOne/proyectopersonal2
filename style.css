@@ -4,10 +4,9 @@
 }
 
 header, section, footer{
-    width: 960px;
+    width: 992px;
     margin-right: auto;
     margin-left: auto;
-    
 }
 
 #encabezado{
@@ -45,6 +44,7 @@ header, section, footer{
 #sectionplancompleto{
     /*background-color: aqua;*/
     height: 250px;
+    width: 700px;
 }
 
 #sectioninterplanes{
@@ -69,6 +69,7 @@ header, section, footer{
 #sectionplanentrenamiento{
     /*background-color:aquamarine;*/
     height: 180px;
+    width: 700px;
 }
 
 #sectioncomparaciones{
@@ -80,7 +81,7 @@ header, section, footer{
     margin-top: 10px;
 }
 
-.card-izquierda{
+/*.card-izquierda{
     float: left;
 }
 
@@ -94,7 +95,7 @@ header, section, footer{
 
 #sectioncomparaciones ul{
     list-style: none;
-}
+}*/
 
 #cardplanes{
     margin-left: 25px;
@@ -103,6 +104,7 @@ header, section, footer{
 #sectionrefuerzo{
     /*background-color: blue;*/
     height: 200px;
+    width: 700px;
 }
 
 #sectionrefuerzotitulo{
@@ -124,6 +126,7 @@ header, section, footer{
 #sectionsobremi{
     /*background-color: blue;*/
     height: 350px;
+    width: 800px;
 }
 
 #sectionsobremititulo{
